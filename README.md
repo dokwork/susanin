@@ -1,4 +1,5 @@
 # Susanin
+ [ ![Download](https://api.bintray.com/packages/dokwork/maven/susanin/images/download.svg) ](https://bintray.com/dokwork/maven/susanin/_latestVersion)
 [![Build Status](https://travis-ci.org/dokwork/susanin.svg?branch=master)](https://travis-ci.org/dokwork/susanin)
 [![Coverage Status](https://coveralls.io/repos/github/dokwork/susanin/badge.svg?branch=master)](https://coveralls.io/github/dokwork/susanin?branch=master)
 
