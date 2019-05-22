@@ -29,6 +29,6 @@ lazy val susanin = (project in file("."))
     releaseReadmeFile := Some(baseDirectory.value / "README.md")
   )
   .settings(
-    coverageMinimum := 45,
+    coverageMinimum := 42,
     coverageFailOnMinimum := true
   )
